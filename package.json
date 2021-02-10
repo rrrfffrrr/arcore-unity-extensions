@@ -13,6 +13,13 @@
         "com.unity.xr.arfoundation": "4.1.0-preview.10",
         "com.unity.xr.arcore": "4.1.0-preview.10"
     },
+    "requirements": [
+        {
+            "displayName": "Build resources",
+            "description": "Requirement to build application",
+            "path": "Requirements~/BuildResources"
+        }
+    ],
     "samples": [
         {
             "displayName": "Cloud Anchor Sample",
